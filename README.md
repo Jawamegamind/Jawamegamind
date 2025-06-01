@@ -16,4 +16,4 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Jawamegamind&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> <br /> <img src="https://visitor-badge.laobi.icu/badge?page_id=Jawamegamind" alt="visitors" /> </p>
 
-<p align="center"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jawamegamind)] </p>
+<p align="center"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jawamegamind) </p>
