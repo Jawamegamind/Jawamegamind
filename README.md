@@ -12,7 +12,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jawamegamind&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jawamegamind&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
