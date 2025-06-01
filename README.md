@@ -10,6 +10,6 @@
 5. LLM Applications & Retrieval-Augmented Generation
 6. Generative Models (GANs, VAEs, Stable Diffusion)
 7. Data-centric AI
-
+```
 
 <p align="center"> <a href="mailto:25100094@lums.edu.pk">📧 LUMS Email</a> • <a href="mailto:jawad.saeed586r@gmail.com">📧 Personal Email</a> </p>
