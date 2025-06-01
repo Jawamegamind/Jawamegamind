@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jawamegamind&theme=tokyonight" width="48%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jawamegamind&theme=tokyonight"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jawamegamind&theme=tokyonight" />
 </p>
 <p align="center"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Jawamegamind"&theme=tokyonight />  </p>
