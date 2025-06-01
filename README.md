@@ -19,4 +19,8 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Jawamegamind" alt="visitors" />
 </p>
 
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jawamegamind&theme=tokyonight" width="48%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jawamegamind&theme=tokyonight" />
+</p>
 <p align="center"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Jawamegamind"&theme=tokyonight />  </p>
