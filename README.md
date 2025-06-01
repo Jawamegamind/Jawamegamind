@@ -13,3 +13,5 @@
 ```
 
 <p align="center"> <a href="mailto:25100094@lums.edu.pk">📧 LUMS Email</a> • <a href="mailto:jawad.saeed586r@gmail.com">📧 Personal Email</a> </p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?Jawamegamind&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> <br /> <img src="https://visitor-badge.laobi.icu/badge?page_id=your-username" alt="visitors" /> </p>
