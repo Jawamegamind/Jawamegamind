@@ -15,10 +15,10 @@
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Jawamegamind" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Jawamegamind&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jawamegamind&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jawamegamind&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=tokyonight" />
 </a>
 
 <p align="center">
