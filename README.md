@@ -10,10 +10,6 @@
 
 <p align="center"> <a href="mailto:25100094@lums.edu.pk">📧 LUMS Email</a> • <a href="mailto:jawad.saeed586r@gmail.com">📧 Personal Email</a> </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jawamegamind&show_icons=true&theme=tokyonight" width="48%" />
-</p>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Jawamegamind&show_icons=true&theme=tokyonight" />
 </a>
